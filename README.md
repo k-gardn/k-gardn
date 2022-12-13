@@ -12,10 +12,18 @@
 
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 
+✍️ 개발 Blog
+---
+[<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>](https://garden-kim.tistory.com)
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-gardn&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladnjs15)](https://solved.ac/rladnjs15)
+
+
+
+
+
 
 <!--
 **k-gardn/k-gardn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
